@@ -16,4 +16,7 @@ This is hello from Joshua. I am adding a new line of
 code here for direct branch push. :tf
 
 This is hello from Xin En. I am adding a new line of code here
-Hello again. I am here to addin a second line. I am Xin En
+
+Hello again. I am here to add in a second line. I am Xin En
+
+This is hello from Xin En. I am adding a new line of code here for direct branch push.
